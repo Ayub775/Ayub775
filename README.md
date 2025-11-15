@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad Ayub Ansari</h1>
-<h3 align="center">Aspiring Software Engineer | AI Enthusiast | Full-Stack Developer 🚀</h3>
+<h3 align="center">Aspiring Software Engineer | AI Enthusiast  🚀</h3>
 
 ---
 
